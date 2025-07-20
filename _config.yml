@@ -28,14 +28,14 @@ author:
   bio              : "Dr. Weixiao Wu is an Assistant Professor of Finance at Assumption University. Her research lies at international trade, trade policy, and global economies, with a focus on how firms respond to external shocks, including tariff policy uncertainty, tax policy changes, and exchange rate fluctuations, through pricing, productivity, and investment strategies. At Assumption, I teach both introductory and advanced courses in Statistics, Finance, and MBA. I’m actively involved in curricular development, student advising, and experiential initiatives such as the Greyhounds Investment Fund. I’m passionate about creating inclusive and intellectually engaging learning environments, and I strive to bridge theory with practice in both my teaching and research."
   location         : "Lexington, MA"
   employer         : "Assumption University"
-  uri              : "https://www.assumption.edu/people-and-departments/directory/olivia-wu-phd-cfa"
-  email            : "none@example.org" 
+  uri              : "https://oliviaweixiaowu.github.io"
+  email            : "w.wu@assumption.edu" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://www.assumption.edu/people-and-departments/directory/olivia-wu-phd-cfa"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=C3oUGVgAAAAJ&hl=en"
+  impactstory      : “https://orcid.org/0000-0001-8016-2496”
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
